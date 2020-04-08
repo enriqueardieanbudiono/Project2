@@ -1,0 +1,148 @@
+/*Style for Resume*/
+body {
+    font-family: 'Monterrat';
+    font-size: 22px;
+}
+
+h2 {
+    text-align: center;
+    background-color: #000000;
+	font-family: 'Montserrat', cursive;
+    color: white;
+    margin: 30px;
+	border-radius: 20px;
+	
+}
+
+.content {
+	font-family: 'Montserrat';
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+/* End Of Resume Style */
+
+/* Main Style */
+main {
+	padding: 16px;
+	height: 200px;
+}
+/* End of Main Style */
+
+/* Hobby Style*/
+.stream {
+    text-align: center;
+    background-color: #FF686A;
+	font-family: 'Montserrat';
+    color: white;
+    margin: 30px;
+	border-radius: 20px;
+	
+}
+
+.right {
+	text-align: right;
+	display: block;
+	margin-right: 25px;
+	margin-left: 6px;
+}
+
+.coding {
+	text-align: center;
+	background-color: #6B87F1;
+	font-family: 'Montserrat';
+	color: white;
+	margin: 30px;
+	border-radius: 20px;
+}
+
+.fix {
+	text-align: center;
+	background-color: #5A307E;
+	font-family: 'Montserrat';
+	color: white;
+	margin: 30px;
+	border-radius: 20px;
+}
+.video {
+	text-align: center;
+	background-color: rgb(255,0,0);
+	font-family: 'Montserrat';
+	color: white;
+	margin: 30px;
+	border-radius: 20px;
+}
+p {
+	font-family: 'Montserrat';
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+iframe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.youtube {
+	height: 600px;
+	width: 500px;
+}
+/* End Of Hobby Style */
+
+/* Navigation Bar Style */
+nav {
+	position:fixed;
+	text-align: center;
+	overflow: hidden;
+	top: 0;
+	width: 100%;
+	background-color: #ADADAD;
+}
+
+nav a {
+    float: none;
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Montserrat';
+}
+
+nav a:hover {
+	background: #DDDDDD;
+	color: black;
+}
+
+nav a.active {
+	background-color: #1DB954;
+	color: white;
+}
+
+topleft {
+	text-align: left;
+}
+/* End Of Navigation Bar*/
+
+/* Bullet Points */
+ul {
+	text-align: center;
+	font-family: 'Montserrat';
+	margin: 0 auto;
+	list-style: inside;
+}
+
+/* End Of Bullet Points */
